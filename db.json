@@ -1,0 +1,46 @@
+{
+  "lists": [
+    {
+      "category": "car",
+      "title": "Honda Fit: 1.3 л | 2002 г. | Хэтчбэк",
+      "avatar": "https://img5.lalafo.com/i/posters/original_webp/14/8d/18/0f8f2fa95d26bedf666d1b5583.webp",
+      "description": "Год: 2002, Кузов: Хэтчбэк, Цвет: Красный, Цвет: Красный",
+      "id": 3
+    },
+    {
+      "category": "home",
+      "title": "2 комнаты, 77 м², Элитка, 2 этаж, Свежий ремонт",
+      "avatar": "https://img5.lalafo.com/i/posters/original_webp/6f/3e/93/df687a2a670d9240c14329d0d8.webp",
+      "description": "Ремонт: Свежий ремонт, Дополнительно: Бронированные двери, Дизайнерский ремонт, Евроремонт, Животные не проживали, Кондиционер, Теплый пол",
+      "id": 4
+    },
+    {
+      "category": "home",
+      "title": "1 комната, Душевая кабина, Постельное белье, Кондиционер",
+      "avatar": "https://img5.lalafo.com/i/posters/original_webp/f1/71/1b/1-komnata-dushevaya-kabina-postelnoe-bele-konditsioner-bez-zhivotnykh-89361002_image-1630162847356.webp",
+      "description": "Квартира посуточно, почасовой, на ночь 1 комнатная квартира на ночь посуточно 1 комнатная квартира сниму посуточно 1 комнатную квартиру",
+      "id": 5
+    },
+    {
+      "category": "home",
+      "title": "3 комнаты, С мебелью полностью",
+      "avatar": "https://img5.lalafo.com/i/posters/original_webp/6b/f0/a0/3-komnaty-s-mebelyu-polnostyu-84416971_image-1691947507.webp",
+      "description": "Бытовая техника: Аристон, Кондиционер, Плита электрическая, Пылесос, Стиральная машина, Телевизор, Холодильник, Другая бытовая техника",
+      "id": 6
+    },
+    {
+      "category": "clothes",
+      "title": "Мусульманская одежда. Нежнейшая двоечка из хлопка в прекрасном",
+      "avatar": "https://img5.lalafo.com/i/posters/original_webp/f5/ce/38/5d8178f37d25edf81f6f907b16.webp",
+      "description": "Нежнейшая двоечка из хлопка в прекрасном исполнении. Удачный комплект, который можно комбинировать и с другой одеждой",
+      "id": 7
+    },
+    {
+      "category": "clothes",
+      "title": "0101 Brand, 2XL (EU 44), цвет - Розовый",
+      "avatar": "https://img5.lalafo.com/i/posters/original_webp/ca/14/69/939203db07b2ea088a175c543f.webp",
+      "description": "Цвет: Розовый, Состояние: Новый",
+      "id": 8
+    }
+  ]
+}
